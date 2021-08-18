@@ -16,7 +16,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
-    label: "Pages"f
+    label: "Pages"
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
