@@ -1,6 +1,6 @@
 ---
 title: Our Coffee
-image: img/about-direct-sourcing.jpg
+image: img/about-jumbotron.jpg
 heading: What we offer
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
